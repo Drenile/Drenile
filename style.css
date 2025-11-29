@@ -161,6 +161,15 @@ h2 {
   color: white;
 }
 
+.Portfolio_Pic-img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid #4d4dff;
+  margin-bottom: 20px;
+}
+
 /* FOOTER */
 footer {
   text-align: center;
